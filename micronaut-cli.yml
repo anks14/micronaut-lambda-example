@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: micronaut.lambda.example
+---
+testFramework: junit
+sourceLanguage: java
